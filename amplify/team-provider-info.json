@@ -10,6 +10,11 @@
       "StackName": "amplify-completereactnew-dev-150519",
       "StackId": "arn:aws:cloudformation:us-east-1:762569647001:stack/amplify-completereactnew-dev-150519/3f86c350-a38f-11ec-9054-12d8fd23426d",
       "AmplifyAppId": "dbsc70m1mf9i"
+    },
+    "categories": {
+      "auth": {
+        "completereactnewec446acb": {}
+      }
     }
   }
 }
